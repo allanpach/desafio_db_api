@@ -1,0 +1,11 @@
+pojo\ContatoRequestBody.class
+test\ApagarContato.class
+core\BaseTest.class
+suit\SuitTest.class
+test\CriarContato.class
+test\ListarContatos.class
+test\EditarParteDoContato.class
+factory\ContatoDataFactory.class
+utils\DataUtils.class
+core\Constantes.class
+test\EditarContato.class
