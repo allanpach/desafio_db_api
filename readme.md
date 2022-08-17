@@ -7,7 +7,7 @@ Este é o projeto de Testes de API automatizado.
  * Maven deve estar instalado e configurado no path da aplicação
  * Pasta raiz mapeada contendo Chromedriver.exe e/ou GeckoDriver no path do sistema.
  * Como configurar o path: https://www.linkedin.com/pulse/como-instalar-o-chromedriver-windows-10-jo%C3%A3o-gross/?originalSubdomain=pt
- * Para vizualizar os relatórios indico o Alluer reporte baixe e mapeia no path do sistema.
+ * Para vizualizar os relatórios indico o Alluer report baixe e mapeia no path do sistema.
  
 ##  Aplicação usada para  os testes
   * Alguns status code mapeado no documento não está de acordo com o retorno da aplicação.
